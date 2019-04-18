@@ -1,0 +1,24 @@
+04-18 03:36:08.865 11966-11966/? E/libprocessgroup: failed to make and chown /acct/uid_10062: Read-only file system
+04-18 03:36:08.866 11966-11966/? W/Zygote: createProcessGroup failed, kernel missing CONFIG_CGROUP_CPUACCT?
+04-18 03:36:08.869 11966-11966/? I/art: Not late-enabling -Xcheck:jni (already on)
+04-18 03:36:09.275 11966-11966/edu.washington.hlai98.activityspy I/InstantRun: starting instant run server: is main process
+04-18 03:36:09.332 11966-11966/edu.washington.hlai98.activityspy W/art: Before Android 4.1, method android.graphics.PorterDuffColorFilter android.support.graphics.drawable.VectorDrawableCompat.updateTintFilter(android.graphics.PorterDuffColorFilter, android.content.res.ColorStateList, android.graphics.PorterDuff$Mode) would have incorrectly overridden the package-private method in android.graphics.drawable.Drawable
+04-18 03:36:09.337 11966-11979/edu.washington.hlai98.activityspy I/art: Background sticky concurrent mark sweep GC freed 2201(253KB) AllocSpace objects, 0(0B) LOS objects, 13% free, 963KB/1117KB, paused 5.095ms total 17.551ms
+04-18 03:36:09.371 11966-11966/edu.washington.hlai98.activityspy I/art: Rejecting re-init on previously-failed class java.lang.Class<android.support.v4.view.ViewCompat$OnUnhandledKeyEventListenerWrapper>
+04-18 03:36:09.371 11966-11966/edu.washington.hlai98.activityspy I/art: Rejecting re-init on previously-failed class java.lang.Class<android.support.v4.view.ViewCompat$OnUnhandledKeyEventListenerWrapper>
+04-18 03:36:09.422 11966-11979/edu.washington.hlai98.activityspy W/art: Suspending all threads took: 9.780ms
+04-18 03:36:09.426 11966-11979/edu.washington.hlai98.activityspy I/art: Background sticky concurrent mark sweep GC freed 1973(473KB) AllocSpace objects, 0(0B) LOS objects, 23% free, 1550KB/2016KB, paused 11.650ms total 22.293ms
+04-18 03:36:09.675 11966-11966/edu.washington.hlai98.activityspy I/MainActivity: onCreate event fired
+04-18 03:36:09.713 11966-11984/edu.washington.hlai98.activityspy D/OpenGLRenderer: Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+04-18 03:36:09.731 11966-11966/edu.washington.hlai98.activityspy D/Atlas: Validating map...
+04-18 03:36:09.817 11966-11979/edu.washington.hlai98.activityspy W/art: Suspending all threads took: 7.597ms
+04-18 03:36:09.830 11966-11979/edu.washington.hlai98.activityspy I/art: Background sticky concurrent mark sweep GC freed 1576(83KB) AllocSpace objects, 0(0B) LOS objects, 4% free, 1930KB/2016KB, paused 14.592ms total 34.123ms
+04-18 03:36:09.901 11966-11984/edu.washington.hlai98.activityspy I/OpenGLRenderer: Initialized EGL, version 1.4
+04-18 03:36:09.901 11966-11984/edu.washington.hlai98.activityspy W/OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+04-18 03:36:09.910 11966-11984/edu.washington.hlai98.activityspy D/EGL_emulation: eglCreateContext: 0xae834c40: maj 2 min 0 rcv 2
+04-18 03:36:09.913 11966-11984/edu.washington.hlai98.activityspy D/EGL_emulation: eglMakeCurrent: 0xae834c40: ver 2 0
+04-18 03:36:09.918 11966-11984/edu.washington.hlai98.activityspy D/OpenGLRenderer: Enabling debug mode 0
+04-18 03:36:09.937 11966-11984/edu.washington.hlai98.activityspy D/EGL_emulation: eglMakeCurrent: 0xae834c40: ver 2 0
+04-18 03:36:10.197 11966-11966/edu.washington.hlai98.activityspy W/art: Before Android 4.1, method int android.support.v7.widget.DropDownListView.lookForSelectablePosition(int, boolean) would have incorrectly overridden the package-private method in android.widget.ListView
+04-18 03:37:59.015 11966-11984/edu.washington.hlai98.activityspy D/EGL_emulation: eglMakeCurrent: 0xae834c40: ver 2 0
+04-18 03:38:04.738 11966-11966/edu.washington.hlai98.activityspy E/MainActivity: We're going down, Captain!
